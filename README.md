@@ -1,6 +1,6 @@
 # Vinicio Mendes Roberto
 
-ML Research Intern | BSc student in Industrial Engineering at the University of São Paulo (Poli-USP)
+AI Researcher | BSc student in Industrial Engineering at the University of São Paulo (Poli-USP)
 
 I work on applied machine learning and software development. My projects include industrial fault diagnosis, TinyML on microcontrollers, and data pipelines with LLM-generated explanations.
 
