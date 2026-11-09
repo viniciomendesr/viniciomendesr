@@ -38,7 +38,7 @@ I created IFprep, an educational app for students preparing for Brazil's Federal
 
 - **Languages:** Python, SQL, TypeScript, JavaScript, MATLAB.
 - **Machine learning and research:** TensorFlow, XGBoost, Edge Impulse, TinyML, Simulink.
-- **Software and data:** FastAPI, React, PostgreSQL, DuckDB, Git.
+- **Software and data:** FastAPI, React, PostgreSQL, DuckDB, Git, Docker.
 
 ## Contact
 
